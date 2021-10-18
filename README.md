@@ -1,2 +1,2 @@
 # Leetcode268-missing_number
-NCKU system architecture assignment1
+NCKU computer architecture assignment1
